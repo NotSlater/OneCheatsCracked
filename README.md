@@ -35,4 +35,5 @@ Open the file and anything that has "Encoding.UTF8.GetString(Convert.FromBase64S
 Put the encoded text into https://www.base64decode.org/ and replace "Encoding.UTF8.GetString(Convert.FromBase64String("ENCODEDTEXT HERE"))"
 With ("DECODED TEXT HERE")
 ```
-**Example:** Console.WriteLine(Encoding.UTF8.GetString(Convert.FromBase64String("RW5jb2RlZCBUZXh0"))); -> Console.WriteLine("Encoded Text");
+**Example Below**  
+Console.WriteLine(Encoding.UTF8.GetString(Convert.FromBase64String("RW5jb2RlZCBUZXh0"))); **->** Console.WriteLine("Encoded Text");
