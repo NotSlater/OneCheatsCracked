@@ -1,6 +1,7 @@
 # OneCheatsCracked By NotSlater
+```
+Status: Detected```
 OneCheats V2.4 by Coazy
-Cracked by NotSlater
 
 Some things are still Encrypted
 Variables are Not Encrypted
