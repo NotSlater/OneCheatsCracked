@@ -1,7 +1,10 @@
 # OneCheatsCracked By NotSlater
 ```
 Last Updated: Nov. 7, 2021
-Status: Detected
+-=Status=-
+Script: Detected
+Tables: Up-to-date
+Multipliers: Semi Up-to-date
 ```
 
 OneCheats V2.4 by Coazy
