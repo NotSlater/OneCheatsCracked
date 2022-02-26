@@ -31,9 +31,9 @@ Needed DLLs
 # Undecode
 ```
 To decode to Display.cs file or any other file that I post here in the future.
-Open the file and anything that has "Encoding.UTF8.GetString(Convert.FromBase64String("ENCODEDTEXT HERE"))"
-Put the encoded text into https://www.base64decode.org/ and replace "Encoding.UTF8.GetString(Convert.FromBase64String("ENCODEDTEXT HERE"))"
-With ("DECODED TEXT HERE")
+Open the file and anything that has "Encoding.UTF8.GetString(Convert.FromBase64String("ENCODED TEXT"))"
+Put "ENCODED TEXT" into https://www.base64decode.org/ and you should get the decoded text \/
+Replace "Encoding.UTF8.GetString(Convert.FromBase64String("ENCODEDTEXT HERE"))" with ("DECODED TEXT")
 ```
 **Example Below**  
 Console.WriteLine(Encoding.UTF8.GetString(Convert.FromBase64String("RW5jb2RlZCBUZXh0"))); **->** Console.WriteLine("Encoded Text");
