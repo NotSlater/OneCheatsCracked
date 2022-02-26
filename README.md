@@ -1,6 +1,6 @@
 # OneCheatsCracked By NotSlater
 ```
-Last Updated: 
+Last Updated: Nov. 7, 2021
 Status: Detected
 ```
 
